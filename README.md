@@ -1,12 +1,45 @@
-# React + Vite
+# 💼 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and passion for web development. Built using modern technologies, it's designed to be responsive, interactive, and informative.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React.js**
+- **Vite**
+- **JavaScript**
+- **HTML5 & CSS3**
+- **Tailwind CSS** 
+- **Framer Motion** (for animations)
+- **Lucide React** (for icons)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎨 Features
+
+- Responsive design for all devices
+- Smooth animations using Framer Motion
+- Projects section with links
+- Skills and tools used
+- Contact form or social links
+
+## 🧑‍💻 Author
+
+**Sakshi Yadav**  
+- [LinkedIn](www.linkedin.com/in/sakshi-yadav-14200a256)
+- [GitHub](https://github.com/SakshiY-Dev)
+
+## Navigate to the project directory
+
+cd portfolio
+
+## Install dependencies
+npm install
+
+## Start the development server
+npm run dev
+Open your browser and visit http://localhost:5173 to view the site.
+
+⚠️ Make sure you have Node.js and npm installed.
+
+## 📜 License
+
+This project is licensed under the MIT License.
